@@ -1,0 +1,11 @@
+#fundo{
+    margin-top: 10%;
+    text-align: center;
+    background-color: aqua;
+}
+
+#canvass{
+    background-image: url("bob_fundo.jpg");
+    background-position: center;
+    background-size: cover;
+}
